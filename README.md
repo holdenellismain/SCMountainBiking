@@ -23,12 +23,16 @@ In order to import this data into ArcGIS, the process needs to be automated and 
 
 ![image](https://github.com/user-attachments/assets/1e2b6fbc-0cbc-4bc8-8f7a-83bb9ebec8f8)
 
-From there, some of the trail paths need to be extended manually in the case that the official segment only covered a portion. Symbology and layouts are completed and shown below.
+From there, some of the trail paths need to be extended manually in the case that the official segment only covered a portion.
+
+## Results
 
 ![Full](https://github.com/user-attachments/assets/42c11a6f-3dd3-4539-ae63-734b83059137)
 ![UCSC](https://github.com/user-attachments/assets/24dab4e5-8ccd-4007-a35f-b10fd4b160f8)
 ![Nisene](https://github.com/user-attachments/assets/ff97d121-46ec-46d4-9d59-5bfe0c1d0fb8)
 
+## Further Development
 
-
-
+- Collect data for more trails. I missed a lot of segments in the middle portion of UCSC and my coverage of the climbing trails is very spotty.
+- Visualization of e-bike vs pedal bike representation.
+- Analysis of which days were the busiest. I bothered to collect day-to-day changes in ridership but it doesn't visualize well on a map so its unused thus far.
